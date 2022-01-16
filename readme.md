@@ -4,18 +4,14 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Front+End+Web+Developer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
-<br/>
 
 [![Facebook Profile](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
-<br/>
 
 ## I'm a Student !!
 - 🌱 I’m currently learning everything about web 🤣
 - 🥅 2022 Goals: Learn more tecnology 
 - ⚡ Fun fact: I love to listening to music, playing soccer with my friend and watching movie
-
-<br/>
 
 ## 💻 Languages and Tools:
 <br/>
