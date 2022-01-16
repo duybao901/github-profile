@@ -43,6 +43,7 @@
 
 ## 📊 Github Stats
   <br/>
+  <summary><b>⚡ Recent GitHub Stats</b></summary>
   <p align="center">
     <a href="https://github.com/duycarry123"><img alt="Duy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=duycarry123&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
